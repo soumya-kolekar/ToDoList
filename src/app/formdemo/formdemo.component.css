@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+}
+label{
+    text-align:  left;
+}
+.alert.alert-danger {  
+    background-color: red; 
+   
+    }
+.alert {
+    margin-bottom: 15px; 
+    color: white;
+}
+p {  
+    background-color: red; 
+    margin-bottom: 15px; 
+    color: white;
+    }
