@@ -1,0 +1,30 @@
+.todos {
+    margin: 20px;
+  }
+  
+  .todo {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+  }
+  
+  .done {
+    text-decoration: line-through;
+  }
+  
+  .content {
+    flex: 1;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .delete {
+    margin-left: 10px;
+    color: red;
+  }
+  
+  .id {
+    width: 30px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
